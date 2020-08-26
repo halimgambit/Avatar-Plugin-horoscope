@@ -1,0 +1,11 @@
+{
+  "modules" : { 
+    "horoscope"  : {
+      "description": "Donne l'horoscope du jour",
+      "Exemples" : "quel est l horoscope du scorpion",
+      "version"    : "1.0",
+	    "signe"	: "",
+	  "rules" : ["horoscope"]
+    }
+  }
+}
